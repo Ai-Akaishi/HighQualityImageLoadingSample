@@ -22,6 +22,12 @@ assets\myfont\font\license.txt
 › 0.5進む
 ```
 
+## テンプレート / Template
+
+以下の２ファイルです。  
+assets\myfont\font\5x8template.json  
+assets\myfont\font\10x10template.json
+
 ## 連絡はこちら / Contact
 
 <https://twitter.com/AiAkaishi>
