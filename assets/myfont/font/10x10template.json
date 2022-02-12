@@ -1,0 +1,192 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 20,
+            "ascent": 20,
+            "chars": [
+                "あいうえおアイウエオ",
+                "\uF010\uF011\uF012\uF013\uF014\uF015\uF016\uF017\uF018\uF019",
+                "\uF020\uF021\uF022\uF023\uF024\uF025\uF026\uF027\uF028\uF029",
+                "\uF030\uF031\uF032\uF033\uF034\uF035\uF036\uF037\uF038\uF039",
+                "\uF040\uF041\uF042\uF043\uF044\uF045\uF046\uF047\uF048\uF049",
+                "\uF050\uF051\uF052\uF053\uF054\uF055\uF056\uF057\uF058\uF059",
+                "\uF060\uF061\uF062\uF063\uF064\uF065\uF066\uF067\uF068\uF069",
+                "\uF070\uF071\uF072\uF073\uF074\uF075\uF076\uF077\uF078\uF079",
+                "\uF080\uF081\uF082\uF083\uF084\uF085\uF086\uF087\uF088\uF089",
+                "\uF090\uF091\uF092\uF093\uF094\uF095\uF096\uF097\uF098\uF099"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 20,
+            "ascent": 0,
+            "chars": [
+                "\uF100\uF101\uF102\uF103\uF104\uF105\uF106\uF107\uF108\uF109",
+                "かきくけこカキクケコ",
+                "\uF120\uF121\uF122\uF123\uF124\uF125\uF126\uF127\uF128\uF129",
+                "\uF130\uF131\uF132\uF133\uF134\uF135\uF136\uF137\uF138\uF139",
+                "\uF140\uF141\uF142\uF143\uF144\uF145\uF146\uF147\uF148\uF149",
+                "\uF150\uF151\uF152\uF153\uF154\uF155\uF156\uF157\uF158\uF159",
+                "\uF160\uF161\uF162\uF163\uF164\uF165\uF166\uF167\uF168\uF169",
+                "\uF170\uF171\uF172\uF173\uF174\uF175\uF176\uF177\uF178\uF179",
+                "\uF180\uF181\uF182\uF183\uF184\uF185\uF186\uF187\uF188\uF189",
+                "\uF190\uF191\uF192\uF193\uF194\uF195\uF196\uF197\uF198\uF199"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 20,
+            "ascent": -20,
+            "chars": [
+                "\uF200\uF201\uF202\uF203\uF204\uF205\uF206\uF207\uF208\uF209",
+                "\uF210\uF211\uF212\uF213\uF214\uF215\uF216\uF217\uF218\uF219",
+                "さしすせそサシスセソ",
+                "\uF230\uF231\uF232\uF233\uF234\uF235\uF236\uF237\uF238\uF239",
+                "\uF240\uF241\uF242\uF243\uF244\uF245\uF246\uF247\uF248\uF249",
+                "\uF250\uF251\uF252\uF253\uF254\uF255\uF256\uF257\uF258\uF259",
+                "\uF260\uF261\uF262\uF263\uF264\uF265\uF266\uF267\uF268\uF269",
+                "\uF270\uF271\uF272\uF273\uF274\uF275\uF276\uF277\uF278\uF279",
+                "\uF280\uF281\uF282\uF283\uF284\uF285\uF286\uF287\uF288\uF289",
+                "\uF290\uF291\uF292\uF293\uF294\uF295\uF296\uF297\uF298\uF299"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 20,
+            "ascent": -40,
+            "chars": [
+                "\uF300\uF301\uF302\uF303\uF304\uF305\uF306\uF307\uF308\uF309",
+                "\uF310\uF311\uF312\uF313\uF314\uF315\uF316\uF317\uF318\uF319",
+                "\uF320\uF321\uF322\uF323\uF324\uF325\uF326\uF327\uF328\uF329",
+                "たちつてとタチツテト",
+                "\uF340\uF341\uF342\uF343\uF344\uF345\uF346\uF347\uF348\uF349",
+                "\uF350\uF351\uF352\uF353\uF354\uF355\uF356\uF357\uF358\uF359",
+                "\uF360\uF361\uF362\uF363\uF364\uF365\uF366\uF367\uF368\uF369",
+                "\uF370\uF371\uF372\uF373\uF374\uF375\uF376\uF377\uF378\uF379",
+                "\uF380\uF381\uF382\uF383\uF384\uF385\uF386\uF387\uF388\uF389",
+                "\uF390\uF391\uF392\uF393\uF394\uF395\uF396\uF397\uF398\uF399"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 20,
+            "ascent": -60,
+            "chars": [
+                "\uF400\uF401\uF402\uF403\uF404\uF405\uF406\uF407\uF408\uF409",
+                "\uF410\uF411\uF412\uF413\uF414\uF415\uF416\uF417\uF418\uF419",
+                "\uF420\uF421\uF422\uF423\uF424\uF425\uF426\uF427\uF428\uF429",
+                "\uF430\uF431\uF432\uF433\uF434\uF435\uF436\uF437\uF438\uF439",
+                "なにぬねのナニヌネノ",
+                "\uF450\uF451\uF452\uF453\uF454\uF455\uF456\uF457\uF458\uF459",
+                "\uF460\uF461\uF462\uF463\uF464\uF465\uF466\uF467\uF468\uF469",
+                "\uF470\uF471\uF472\uF473\uF474\uF475\uF476\uF477\uF478\uF479",
+                "\uF480\uF481\uF482\uF483\uF484\uF485\uF486\uF487\uF488\uF489",
+                "\uF490\uF491\uF492\uF493\uF494\uF495\uF496\uF497\uF498\uF499"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 20,
+            "ascent": -80,
+            "chars": [
+                "\uF500\uF501\uF502\uF503\uF504\uF505\uF506\uF507\uF508\uF509",
+                "\uF510\uF511\uF512\uF513\uF514\uF515\uF516\uF517\uF518\uF519",
+                "\uF520\uF521\uF522\uF523\uF524\uF525\uF526\uF527\uF528\uF529",
+                "\uF530\uF531\uF532\uF533\uF534\uF535\uF536\uF537\uF538\uF539",
+                "\uF540\uF541\uF542\uF543\uF544\uF545\uF546\uF547\uF548\uF549",
+                "はひふへほハヒフヘホ",
+                "\uF560\uF561\uF562\uF563\uF564\uF565\uF566\uF567\uF568\uF569",
+                "\uF570\uF571\uF572\uF573\uF574\uF575\uF576\uF577\uF578\uF579",
+                "\uF580\uF581\uF582\uF583\uF584\uF585\uF586\uF587\uF588\uF589",
+                "\uF590\uF591\uF592\uF593\uF594\uF595\uF596\uF597\uF598\uF599"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 20,
+            "ascent": -100,
+            "chars": [
+                "\uF600\uF601\uF602\uF603\uF604\uF605\uF606\uF607\uF608\uF609",
+                "\uF610\uF611\uF612\uF613\uF614\uF615\uF616\uF617\uF618\uF619",
+                "\uF620\uF621\uF622\uF623\uF624\uF625\uF626\uF627\uF628\uF629",
+                "\uF630\uF631\uF632\uF633\uF634\uF635\uF636\uF637\uF638\uF639",
+                "\uF640\uF641\uF642\uF643\uF644\uF645\uF646\uF647\uF648\uF649",
+                "\uF650\uF651\uF652\uF653\uF654\uF655\uF656\uF657\uF658\uF659",
+                "まみむめもマミムメモ",
+                "\uF670\uF671\uF672\uF673\uF674\uF675\uF676\uF677\uF678\uF679",
+                "\uF680\uF681\uF682\uF683\uF684\uF685\uF686\uF687\uF688\uF689",
+                "\uF690\uF691\uF692\uF693\uF694\uF695\uF696\uF697\uF698\uF699"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 20,
+            "ascent": -120,
+            "chars": [
+                "\uF700\uF701\uF702\uF703\uF704\uF705\uF706\uF707\uF708\uF709",
+                "\uF710\uF711\uF712\uF713\uF714\uF715\uF716\uF717\uF718\uF719",
+                "\uF720\uF721\uF722\uF723\uF724\uF725\uF726\uF727\uF728\uF729",
+                "\uF730\uF731\uF732\uF733\uF734\uF735\uF736\uF737\uF738\uF739",
+                "\uF740\uF741\uF742\uF743\uF744\uF745\uF746\uF747\uF748\uF749",
+                "\uF750\uF751\uF752\uF753\uF754\uF755\uF756\uF757\uF758\uF759",
+                "\uF760\uF761\uF762\uF763\uF764\uF765\uF766\uF767\uF768\uF769",
+                "やゆよゃゅヤユヨャュ",
+                "\uF780\uF781\uF782\uF783\uF784\uF785\uF786\uF787\uF788\uF789",
+                "\uF790\uF791\uF792\uF793\uF794\uF795\uF796\uF797\uF798\uF799"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 20,
+            "ascent": -140,
+            "chars": [
+                "\uF800\uF801\uF802\uF803\uF804\uF805\uF806\uF807\uF808\uF809",
+                "\uF810\uF811\uF812\uF813\uF814\uF815\uF816\uF817\uF818\uF819",
+                "\uF820\uF821\uF822\uF823\uF824\uF825\uF826\uF827\uF828\uF829",
+                "\uF830\uF831\uF832\uF833\uF834\uF835\uF836\uF837\uF838\uF839",
+                "\uF840\uF841\uF842\uF843\uF844\uF845\uF846\uF847\uF848\uF849",
+                "\uF850\uF851\uF852\uF853\uF854\uF855\uF856\uF857\uF858\uF859",
+                "\uF860\uF861\uF862\uF863\uF864\uF865\uF866\uF867\uF868\uF869",
+                "\uF870\uF871\uF872\uF873\uF874\uF875\uF876\uF877\uF878\uF879",
+                "らりるれろラリルレロ",
+                "\uF890\uF891\uF892\uF893\uF894\uF895\uF896\uF897\uF898\uF899"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 20,
+            "ascent": -160,
+            "chars": [
+                "\uF900\uF901\uF902\uF903\uF904\uF905\uF906\uF907\uF908\uF909",
+                "\uF910\uF911\uF912\uF913\uF914\uF915\uF916\uF917\uF918\uF919",
+                "\uF920\uF921\uF922\uF923\uF924\uF925\uF926\uF927\uF928\uF929",
+                "\uF930\uF931\uF932\uF933\uF934\uF935\uF936\uF937\uF938\uF939",
+                "\uF940\uF941\uF942\uF943\uF944\uF945\uF946\uF947\uF948\uF949",
+                "\uF950\uF951\uF952\uF953\uF954\uF955\uF956\uF957\uF958\uF959",
+                "\uF960\uF961\uF962\uF963\uF964\uF965\uF966\uF967\uF968\uF969",
+                "\uF970\uF971\uF972\uF973\uF974\uF975\uF976\uF977\uF978\uF979",
+                "\uF980\uF981\uF982\uF983\uF984\uF985\uF986\uF987\uF988\uF989",
+                "わをんぁぃワヲンァィ"
+            ]
+        },
+        {
+            "type": "ttf",
+            "file": "myfont:mcbackspace.ttf",
+            "shift": [0.0, 0.0],
+            "size": 1.0,
+            "oversample": 1.0,
+            "skip": ""
+        }
+    ]
+}

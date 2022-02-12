@@ -1,0 +1,77 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 27,
+            "ascent": 27,
+            "chars": [
+                "あいうえおアイウ",
+                "\uF010\uF011\uF012\uF013\uF014\uF015\uF016\uF017",
+                "\uF020\uF021\uF022\uF023\uF024\uF025\uF026\uF027",
+                "\uF030\uF031\uF032\uF033\uF034\uF035\uF036\uF037",
+                "\uF040\uF041\uF042\uF043\uF044\uF045\uF046\uF047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 27,
+            "ascent": 0,
+            "chars": [
+                "\uF100\uF101\uF102\uF103\uF104\uF105\uF106\uF107",
+                "かきくけこカキク",
+                "\uF120\uF121\uF122\uF123\uF124\uF125\uF126\uF127",
+                "\uF130\uF131\uF132\uF133\uF134\uF135\uF136\uF137",
+                "\uF140\uF141\uF142\uF143\uF144\uF145\uF146\uF147"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 27,
+            "ascent": -27,
+            "chars": [
+                "\uF200\uF201\uF202\uF203\uF204\uF205\uF206\uF207",
+                "\uF210\uF211\uF212\uF213\uF214\uF215\uF216\uF217",
+                "さしすせそサシス",
+                "\uF230\uF231\uF232\uF233\uF234\uF235\uF236\uF237",
+                "\uF240\uF241\uF242\uF243\uF244\uF245\uF246\uF247"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 27,
+            "ascent": -54,
+            "chars": [
+                "\uF300\uF301\uF302\uF303\uF304\uF305\uF306\uF307",
+                "\uF310\uF311\uF312\uF313\uF314\uF315\uF316\uF317",
+                "\uF320\uF321\uF322\uF323\uF324\uF325\uF326\uF327",
+                "たちつてとタチツ",
+                "\uF340\uF341\uF342\uF343\uF344\uF345\uF346\uF347"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "myfont:image.png",
+            "height": 27,
+            "ascent": -81,
+            "chars": [
+                "\uF400\uF401\uF402\uF403\uF404\uF405\uF406\uF407",
+                "\uF410\uF411\uF412\uF413\uF414\uF415\uF416\uF417",
+                "\uF420\uF421\uF422\uF423\uF424\uF425\uF426\uF427",
+                "\uF430\uF431\uF432\uF433\uF434\uF435\uF436\uF437",
+                "なにぬねのナニヌ"
+            ]
+        },
+        {
+            "type": "ttf",
+            "file": "myfont:mcbackspace.ttf",
+            "shift": [0.0, 0.0],
+            "size": 1.0,
+            "oversample": 1.0,
+            "skip": ""
+        }
+    ]
+}
